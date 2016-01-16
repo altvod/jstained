@@ -1,0 +1,4 @@
+/media/paneimg/*
+/db.sqlite3
+*.pyc
+/.idea
